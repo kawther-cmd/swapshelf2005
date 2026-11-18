@@ -1,0 +1,25 @@
+.home-placeholder {
+  padding: var(--space-16) 0;
+  text-align: center;
+}
+
+.home-placeholder__eyebrow {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: var(--space-2);
+}
+
+.home-placeholder__title {
+  font-size: clamp(2rem, 5vw, 3rem);
+}
+
+.home-placeholder__text {
+  color: var(--color-ink-soft);
+}
+
+.home-placeholder__link {
+  font-weight: 700;
+}
