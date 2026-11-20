@@ -3,6 +3,7 @@ import Container from "../components/common/Container.jsx";
 import BookList from "../components/BookList.jsx";
 import booksData from "../data/books.js";
 import "./Home.css";
+import "../components/Controls.css";
 import SearchBar from "../components/SearchBar.jsx";
 import Filter from "../components/Filter.jsx";
 import Sort from "../components/Sort.jsx";
