@@ -4,7 +4,7 @@ Member 1
 - Tool: Lovable (AI-powered platform).
 - Purpose: Used to generate the initial Swap Shelf website, including the frontend structure, user interface, React components, and CSS styling. It also helped implement the main website pages and features based on my prompts and requirements.
 - My contribution: I provided prompts, reviewed the generated code, tested the website, and made adjustments when needed.
-- زي هيك؟
+  
 ## Member 2 – Home Page & Books
 **Tool used:** Claude (Anthropic), Claude Sonnet 5.5
 **Purpose:**
